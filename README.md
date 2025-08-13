@@ -71,5 +71,5 @@ Here are the key technologies and skills I use in my work:
 
 ## 📞 Get in Touch
 
-* **LinkedIn:** [linkedin.com/raquel.charaba]
+* **LinkedIn:** [www.linkedin.com/raquel.charaba]
 * **Email:** [raquel.charaba@outlook.com]
